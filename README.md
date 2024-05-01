@@ -1,1 +1,1 @@
-"# wasia-typescript45Assignments" 
+"# wasia-45Assignments" 
